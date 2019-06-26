@@ -9,6 +9,7 @@
 from tkinter import * 
 
 root = Tk()
+root.resizable(height = False, width = False)
 
 #buttons
 Button(root, bd=2, text="Browse...").grid(row=1, column=1, padx=10, pady=5, ipadx=19)
