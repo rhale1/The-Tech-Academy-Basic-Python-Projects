@@ -1,12 +1,12 @@
 #
-# Python: 3.7.4
+# Python: 3.7.3
 #
 # Author: Rachel Hale
 #
 # Purpose: The Tech Academy - Python Course, created GUI for a smaple window to check for files
 #
 
-from tkinter import * 
+from tkinter import *
 
 root = Tk()
 root.resizable(height = False, width = False)
@@ -24,6 +24,6 @@ Entry(root, bd=2, width=50).grid(row=2, column=2, padx = 10)
 
 root.mainloop()
 
-#currently pass b/c not to run on itfs own
+#currently pass b/c not to run on its own
 if__name__=='__main__'
 pass

@@ -1,3 +1,11 @@
+#
+# Python: 3.7.3
+#
+# Author: Rachel Hale
+#
+# Purpose: The Tech Academy - Python Course
+# Practice OOP basic concepts
+
 # parent class
 
 class Organism:
